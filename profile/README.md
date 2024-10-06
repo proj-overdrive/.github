@@ -16,7 +16,7 @@ interseted what's underway right now, and what's up next.
 
 The SpotOn application is broken down into three parts.
 
-![seng480arch drawio](https://github.com/user-attachments/assets/c77cbb1d-b157-4d40-846b-7203962c4d6e)
+![seng480arch drawio](https://github.com/user-attachments/assets/20b9835b-95cf-4043-9bd0-2bb31655edd0)
 
 ## Garage
 
