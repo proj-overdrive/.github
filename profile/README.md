@@ -10,7 +10,7 @@ _Insert problem solution fit data_
 
 We use [AirTable](https://airtable.com/app2entj4klzsFxDn/tblEcrk8XWS0tI4Tw/viwjmX7JGQmWvBxIY?blocks=hide)
 to keep a working set of features, as well as their development progress. Take a look here if you're
-interseted what's underway right now, and what's up next.
+interseted in what's underway right now, and what's up next.
 
 ## Application
 
