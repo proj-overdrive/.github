@@ -52,6 +52,8 @@ This Kotlin Multiplatform app provides a comprehensive solution for homeowners a
 
 _Alignment and data_:
 
+https://docs.google.com/spreadsheets/d/1ussPlMTlFAP6CS3SntBy9xUUGSbJNq31iLuj9b25Rrc/edit?usp=sharing
+
 ## Features
 
 We use [AirTable](https://airtable.com/app2entj4klzsFxDn/tblEcrk8XWS0tI4Tw/viwjmX7JGQmWvBxIY?blocks=hide)
