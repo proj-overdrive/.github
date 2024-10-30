@@ -1,7 +1,25 @@
 # SpotOn: Get up to Speed
 ![Screenshot 2024-10-29 at 10 24 02 PM](https://github.com/user-attachments/assets/18bcc6d5-a1da-41c7-a756-68468701caba)
 
-Welcome to the SpotOn development team's landing page. Let's get aquianted.
+What we are: SpotOn is the only app in Canada dedicated to connecting drivers seeking parking with homeowners who have under-utilized space. Our platform provides drivers with affordable and relaible parking solutions while empowering homeowners to monetize their property.
+
+Usability Test: https://usabi.li/do/b41120af9859/2d79
+Our AirTable: 
+
+## Current features: 
+- User Login
+- Map View with Search
+- Create/ View Spots
+- Spot Booking
+- ...
+
+## Features to come:
+- Saved Spots
+- Map Spot List
+- Checkout
+- ...
+
+Welcome to the SpotOn development team's landing page. Let's get acquainted.
 
 ## Problem
 
