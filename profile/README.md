@@ -1,5 +1,5 @@
 # SpotOn: Get up to Speed
-![Screenshot 2024-10-30 at 11 32 56 AM](https://github.com/user-attachments/assets/2881aee5-609d-4893-9364-fd3b77308141)
+<img width="1327" alt="image" src="https://github.com/user-attachments/assets/7a3eee7c-84d5-41cc-bc2e-63810db869f4">
 
 What we are: SpotOn is the only app in Canada dedicated to connecting drivers seeking parking with homeowners who have under-utilized space. Our platform provides drivers with affordable and reliable parking solutions while empowering homeowners to monetize their property.
 
