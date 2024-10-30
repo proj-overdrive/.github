@@ -3,7 +3,7 @@
 
 What we are: SpotOn is the only app in Canada dedicated to connecting drivers seeking parking with homeowners who have under-utilized space. Our platform provides drivers with affordable and reliable parking solutions while empowering homeowners to monetize their property.
 
-Usability Test: https://usabi.li/do/b41120af9859/2d79
+Product Page: https://spoton480.carrd.co/
 
 ## Current features: 
 - User Login
