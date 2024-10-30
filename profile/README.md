@@ -1,4 +1,5 @@
 # SpotOn: Get up to Speed
+![Screenshot 2024-10-29 at 10 24 02 PM](https://github.com/user-attachments/assets/18bcc6d5-a1da-41c7-a756-68468701caba)
 
 Welcome to the SpotOn development team's landing page. Let's get aquianted.
 
