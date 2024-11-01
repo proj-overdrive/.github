@@ -10,14 +10,12 @@ Product Page: https://spoton480.carrd.co/
 - Map View with Search
 - Create/ View Spots
 - Spot Booking
-- ...
 
 ## Features to come:
 - Saved Spots
-- Map Spot List
+- Spot Stats
 - Checkout
-- ...
-
+- Map Spot List
 
 This Kotlin Multiplatform app provides a comprehensive solution for homeowners and renters, optimizing parking space utilization while ensuring a user-friendly experience. By leveraging shared code and native performance, the app can efficiently address the parking needs of urban users while creating a new income stream for homeowners.
 
