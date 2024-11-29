@@ -5,23 +5,13 @@ What we are: SpotOn is the only app in Canada dedicated to connecting drivers se
 
 Product Page: https://spoton480.carrd.co/
 
-## Current features: 
-- User Login
-- Map View with Search
-- Create/ View Spots
-- Spot Booking
+Lyssna Usability Test: https://usabi.li/do/b41120af9859/2d79
 
-## Features to come:
-- Saved Spots
-- Spot Stats
-- Checkout
-- Map Spot List
+Lyssna Usability Test Results: https://app.lyssna.com/tests/b41120af9859/results/993ad60bf836
+
 
 This Kotlin Multiplatform app provides a comprehensive solution for homeowners and renters, optimizing parking space utilization while ensuring a user-friendly experience. By leveraging shared code and native performance, the app can efficiently address the parking needs of urban users while creating a new income stream for homeowners.
 
-_Alignment and data_:
-
-https://docs.google.com/spreadsheets/d/1ussPlMTlFAP6CS3SntBy9xUUGSbJNq31iLuj9b25Rrc/edit?usp=sharing
 
 ## Features
 
