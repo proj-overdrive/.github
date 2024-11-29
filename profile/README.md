@@ -9,6 +9,8 @@ Lyssna Usability Test: https://usabi.li/do/b41120af9859/2d79
 
 Lyssna Usability Test Results: https://app.lyssna.com/tests/b41120af9859/results/993ad60bf836
 
+TestFlight Beta Testing: https://testflight.apple.com/join/RCYYjpxb
+
 
 This Kotlin Multiplatform app provides a comprehensive solution for homeowners and renters, optimizing parking space utilization while ensuring a user-friendly experience. By leveraging shared code and native performance, the app can efficiently address the parking needs of urban users while creating a new income stream for homeowners.
 
